@@ -17,4 +17,4 @@ phases:
 artifacts:
   files:
     - "**/*" # 모든 파일과 디렉토리를 포함
-  base-directory: build # 결과물이 위치한 기본 디렉토리는 'build'
+  base-directory: step2/client/build # 결과물이 위치한 기본 디렉토리는 'build'
